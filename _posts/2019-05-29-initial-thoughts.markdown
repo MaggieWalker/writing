@@ -23,4 +23,4 @@ sayHello('Amelia')
 
 Here are some beautiful [L-Systems]! 
 
-[l-systems]: http://paulbourke.net/fractals/lsys/
+[L-Systems]: http://paulbourke.net/fractals/lsys/
