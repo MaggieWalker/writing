@@ -17,6 +17,7 @@ title: Maggie's Thoughts
 email: mags21walker@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a place for me to share my experience as I continue exploring the world of code!
+  Find more @ maggiewalker.github.io
 baseurl: "/writing" # the subpath of your site, e.g. /blog
 url: "http://maggiewalker.github.io" #  the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: magggiewalker
