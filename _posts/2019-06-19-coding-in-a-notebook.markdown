@@ -10,4 +10,9 @@ I don’t know if this is necessarily a faux pas in the coding world, but since 
 
  *Please do forgive my astoundingly bad handwriting and occasional expletive*
 
-![notebook example 1](/images/notebook1.JPG)
+![notebook example 1](/writing/images/notebook1.JPG)
+![notebook example 2](/writing/images/notebook2.JPG)
+![notebook example 3](/writing/images/notebook3.JPG)
+![notebook example 4](/writing/images/notebook4.JPG)
+![notebook example 5](/writing/images/notebook5.JPG)
+![notebook example 6](/writing/images/notebook6.JPG)
