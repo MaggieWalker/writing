@@ -12,17 +12,17 @@ On my first day at the Recurse Center I found a mysterious piece of old-school-l
 
 **I want to make cool plotter art!**
 
-This hardware, as I would soon, is a 1980s HP7440A pen plotter, which was originally built to create serious, business charts like:
+This hardware, as I would soon learn, is a 1980s HP7440A pen plotter, which was originally built to create serious, business charts like:
 
 ![SuccessfulBusinessPresentations](/writing/images/SuccessfulBusinessPresentations.JPG)
-This is what the machine prints as its example. Business is going up! 
+*This is what the machine prints as its example.* **Business is going up!** 
 
 
 First step: connecting the pen plotter to my MacBook. There was a PL2303 to USB serial adaptor, so in order for my laptop to recognize the device I needed to download a PL2303 Mac OS X Driver. Once I did, the serial port showed up at /dev/tty.usbserial and I was able to connect to the plotter.
 
-This plotter uses HPGL, an HP Graphics Language, so I wrote a simple program in NodeJS that would spit out a string of HPGL instructions for the plotter to receive. Look, a triangle! 
+This plotter uses HPGL, an HP Graphics Language, so I wrote a simple program in NodeJS that would spit out a string of HPGL instructions for the plotter to receive.
 
-Let’s print my tattoo!
+Next, the fun part: Let’s print my tattoo!
 
 I have a tattoo of the Dragon Curve (Heighway Fractal), and someone recently recognized it as a possible L-System (spoiler: it is!). 
 
