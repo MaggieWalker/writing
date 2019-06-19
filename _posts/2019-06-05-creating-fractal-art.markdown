@@ -8,13 +8,13 @@ categories: Recurse
 
 On my first day at the Recurse Center I found a mysterious piece of old-school-looking hardware with a sign that read “Make Cool Plotter Art!”.
 
-![PenPlotter](/writing/images/PenPlotter.jpg)
+![PenPlotter](/writing/images/PenPlotter.JPG)
 
 **I want to make cool plotter art!**
 
 This hardware, as I would soon, is a 1980s HP7440A pen plotter, which was originally built to create serious, business charts like:
 
-![SuccessfulBusinessPresentations](/writing/images/SuccessfulBusinessPresentations.jpg)
+![SuccessfulBusinessPresentations](/writing/images/SuccessfulBusinessPresentations.JPG)
 This is what the machine prints as its example. Business is going up! 
 
 
@@ -35,7 +35,7 @@ a collection of production rules that expand each symbol into some larger string
 After drawing a bit on top of my tattoo to try to figure out the production rules:
 
 
-![TattooDrafting1](/writing/images/TattooDrafting1.jpg)
+![TattooDrafting1](/writing/images/TattooDrafting1.JPG)
 
 
  
@@ -131,7 +131,7 @@ Finally, we wrote a CreateDrawing function that takes the directions from transc
 So, running createDrawing(7) will give you:
 
 
-![FinishedFractal](/writing/images/FinishedFractal.jpg)
+![FinishedFractal](/writing/images/FinishedFractal.JPG)
 
 
 A beautiful, beautiful, Dragon Curve!
