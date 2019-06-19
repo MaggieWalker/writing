@@ -135,3 +135,8 @@ So, running createDrawing(7) will give you:
 
 
 A beautiful, beautiful, Dragon Curve!
+
+
+Here is a link to another amazing plotter art project - [Plotty Bird]!
+
+[Plotty Bird]: https://twitter.com/WAptekar/status/1133558364213063680
