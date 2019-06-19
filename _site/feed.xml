@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/writing/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/writing/" rel="alternate" type="text/html" /><updated>2019-06-19T17:16:58-04:00</updated><id>http://localhost:4000/writing/feed.xml</id><title type="html">Maggie’s Thoughts</title><subtitle>This is a place for me to share my experience as I continue exploring the world of code!</subtitle><entry><title type="html">Coding In A Notebook</title><link href="http://localhost:4000/writing/recurse/2019/06/19/coding-in-a-notebook.html" rel="alternate" type="text/html" title="Coding In A Notebook" /><published>2019-06-19T16:51:42-04:00</published><updated>2019-06-19T16:51:42-04:00</updated><id>http://localhost:4000/writing/recurse/2019/06/19/coding-in-a-notebook</id><content type="html" xml:base="http://localhost:4000/writing/recurse/2019/06/19/coding-in-a-notebook.html">&lt;p&gt;I don’t know if this is necessarily a faux pas in the coding world, but since I’ve been learning code I have very rarely seen people notebooking. Whiteboarding, &lt;strong&gt;sure&lt;/strong&gt;! Notebooking, not so much. I am a very big notebook thinker and have been for as long as I can remember. In college, I would write entire final papers completely in my notebook before typing up the 7-10 pages of first draft scribbles. There is something particularly gratifying and, for me, uniquely effective about writing out my thoughts, as if I can capture my process of thinking much more accurately by drawing it out on paper. In fact, as I’m typing this I wish I had a paper and pen to be circling, underlining, and otherwise stylizing words as I write them, drawing arrows from one part of the page to another, using different colors to organize and chunk my thoughts.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/writing/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/writing/" rel="alternate" type="text/html" /><updated>2019-06-19T17:59:49-04:00</updated><id>http://localhost:4000/writing/feed.xml</id><title type="html">Maggie’s Thoughts</title><subtitle>This is a place for me to share my experience as I continue exploring the world of code!</subtitle><entry><title type="html">Coding In A Notebook</title><link href="http://localhost:4000/writing/recurse/2019/06/19/coding-in-a-notebook.html" rel="alternate" type="text/html" title="Coding In A Notebook" /><published>2019-06-19T16:51:42-04:00</published><updated>2019-06-19T16:51:42-04:00</updated><id>http://localhost:4000/writing/recurse/2019/06/19/coding-in-a-notebook</id><content type="html" xml:base="http://localhost:4000/writing/recurse/2019/06/19/coding-in-a-notebook.html">&lt;p&gt;I don’t know if this is necessarily a faux pas in the coding world, but since I’ve been learning code I have very rarely seen people notebooking. Whiteboarding, &lt;strong&gt;sure&lt;/strong&gt;! Notebooking, not so much. I am a very big notebook thinker and have been for as long as I can remember. In college, I would write entire final papers completely in my notebook before typing up the 7-10 pages of first draft scribbles. There is something particularly gratifying and, for me, uniquely effective about writing out my thoughts, as if I can capture my process of thinking much more accurately by drawing it out on paper. In fact, as I’m typing this I wish I had a paper and pen to be circling, underlining, and otherwise stylizing words as I write them, drawing arrows from one part of the page to another, using different colors to organize and chunk my thoughts.&lt;/p&gt;
 
 &lt;p&gt;It is no wonder, then, that when I started the Grace Hopper coding bootcamp, my notebook became one of my favorite learning tools. Despite the fact that I was now decidedly shifting into the world of computers, my notebook remained the best way for me to sort out my thoughts, make connections, and solidify new knowledge. As I continue learning at the Recurse Center, and especially as I continually encounter new technologies (technologies whose interactions aren’t always immediately apparent) diagramming and writing in my notebook remains a key way in which I learn. I wanted to share some pictures of the pages in my notebook as a way to display my messy, non-linear process of learning, and to give an alternative example of what technical learning &lt;em&gt;might&lt;/em&gt; look like.&lt;/p&gt;
 
@@ -9,7 +9,129 @@
 &lt;img src=&quot;/writing/images/notebook3.JPG&quot; alt=&quot;notebook example 3&quot; /&gt;
 &lt;img src=&quot;/writing/images/notebook4.JPG&quot; alt=&quot;notebook example 4&quot; /&gt;
 &lt;img src=&quot;/writing/images/notebook5.JPG&quot; alt=&quot;notebook example 5&quot; /&gt;
-&lt;img src=&quot;/writing/images/notebook6.JPG&quot; alt=&quot;notebook example 6&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">I don’t know if this is necessarily a faux pas in the coding world, but since I’ve been learning code I have very rarely seen people notebooking. Whiteboarding, sure! Notebooking, not so much. I am a very big notebook thinker and have been for as long as I can remember. In college, I would write entire final papers completely in my notebook before typing up the 7-10 pages of first draft scribbles. There is something particularly gratifying and, for me, uniquely effective about writing out my thoughts, as if I can capture my process of thinking much more accurately by drawing it out on paper. In fact, as I’m typing this I wish I had a paper and pen to be circling, underlining, and otherwise stylizing words as I write them, drawing arrows from one part of the page to another, using different colors to organize and chunk my thoughts.</summary></entry><entry><title type="html">Initial Thoughts</title><link href="http://localhost:4000/writing/recurse/2019/05/29/initial-thoughts.html" rel="alternate" type="text/html" title="Initial Thoughts" /><published>2019-05-29T14:24:42-04:00</published><updated>2019-05-29T14:24:42-04:00</updated><id>http://localhost:4000/writing/recurse/2019/05/29/initial-thoughts</id><content type="html" xml:base="http://localhost:4000/writing/recurse/2019/05/29/initial-thoughts.html">&lt;p&gt;As I have been told, and as I have seen for myself: I should be blogging. Blogging is an important way for programmers to share their process, completed work, and the tricks &amp;amp; tips they pick up along the way. As someone who is newer to code, it feels intimidating to try to capture and package the things I’m learning along the way in any sort of cohesive fashion. However, that should not stop me from nudging myself into the world of blogging about code!&lt;/p&gt;
+&lt;img src=&quot;/writing/images/notebook6.JPG&quot; alt=&quot;notebook example 6&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">I don’t know if this is necessarily a faux pas in the coding world, but since I’ve been learning code I have very rarely seen people notebooking. Whiteboarding, sure! Notebooking, not so much. I am a very big notebook thinker and have been for as long as I can remember. In college, I would write entire final papers completely in my notebook before typing up the 7-10 pages of first draft scribbles. There is something particularly gratifying and, for me, uniquely effective about writing out my thoughts, as if I can capture my process of thinking much more accurately by drawing it out on paper. In fact, as I’m typing this I wish I had a paper and pen to be circling, underlining, and otherwise stylizing words as I write them, drawing arrows from one part of the page to another, using different colors to organize and chunk my thoughts.</summary></entry><entry><title type="html">Creating Fractal Art</title><link href="http://localhost:4000/writing/recurse/2019/06/05/creating-fractal-art.html" rel="alternate" type="text/html" title="Creating Fractal Art" /><published>2019-06-05T10:51:42-04:00</published><updated>2019-06-05T10:51:42-04:00</updated><id>http://localhost:4000/writing/recurse/2019/06/05/creating-fractal-art</id><content type="html" xml:base="http://localhost:4000/writing/recurse/2019/06/05/creating-fractal-art.html">&lt;p&gt;On my first day at the Recurse Center I found a mysterious piece of old-school-looking hardware with a sign that read “Make Cool Plotter Art!”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/writing/images/PenPlotter.jpg&quot; alt=&quot;PenPlotter&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I want to make cool plotter art!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This hardware, as I would soon, is a 1980s HP7440A pen plotter, which was originally built to create serious, business charts like:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/writing/images/SuccessfulBusinessPresentations.jpg&quot; alt=&quot;SuccessfulBusinessPresentations&quot; /&gt;
+This is what the machine prints as its example. Business is going up!&lt;/p&gt;
+
+&lt;p&gt;First step: connecting the pen plotter to my MacBook. There was a PL2303 to USB serial adaptor, so in order for my laptop to recognize the device I needed to download a PL2303 Mac OS X Driver. Once I did, the serial port showed up at /dev/tty.usbserial and I was able to connect to the plotter.&lt;/p&gt;
+
+&lt;p&gt;This plotter uses HPGL, an HP Graphics Language, so I wrote a simple program in NodeJS that would spit out a string of HPGL instructions for the plotter to receive. Look, a triangle!&lt;/p&gt;
+
+&lt;p&gt;Let’s print my tattoo!&lt;/p&gt;
+
+&lt;p&gt;I have a tattoo of the Dragon Curve (Heighway Fractal), and someone recently recognized it as a possible L-System (spoiler: it is!).&lt;/p&gt;
+
+&lt;p&gt;L-systems work such that you have an alphabet of symbols and a list of rules for how each symbol expands after each new iteration, in order to make new strings, which then use a set of construction rules to translate the string into geometric symbols.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Wikipedia defines: “An L-system consists of an alphabet of symbols that can be used to make strings, 
+a collection of production rules that expand each symbol into some larger string of symbols, an initial “axiom” string from which to begin construction, and a mechanism for translating the generated strings into geometric structures. “&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;After drawing a bit on top of my tattoo to try to figure out the production rules:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/writing/images/TattooDrafting1.jpg&quot; alt=&quot;TattooDrafting1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We determined that we have A and B:&lt;/p&gt;
+
+&lt;p&gt;A → A+B (where + is a 90° turn)&lt;/p&gt;
+
+&lt;p&gt;B→ A - B (where - is a -90° turn)&lt;/p&gt;
+
+&lt;p&gt;In following these rules, we begin with “A”&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;A    →    A + B    →    A + B  +   A - B    →    A + B +  A - B  + A + B - A - B 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/writing/images/FractalPortion.png&quot; alt=&quot;FractalPortion&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;1st iteration: A&lt;/p&gt;
+
+&lt;p&gt;2nd iteration: A + B&lt;/p&gt;
+
+&lt;p&gt;3rd iteration: A + B  +   A - B&lt;/p&gt;
+
+&lt;p&gt;4th iteration: A + B +  A - B  + A + B - A - B&lt;/p&gt;
+
+&lt;p&gt;We created a function that took a number of iterations (n) and returned a string based on our L-System rules.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;const createIteration = function(n){
+let str = 'A';
+for (let i = 0; i &amp;lt; n; i++){
+    let newStr = '';
+    for (let j = 0; j &amp;lt; str.length; j++) {
+        if (str[j] === 'A'){
+            newStr += 'A+B';
+        } else if (str[j] === 'B') {
+            newStr += 'A-B';
+        } else {
+            newStr += str[j]
+        }
+    }
+    str = newStr;
+}
+return str;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;We then wrote a function that could take that string and transcribe it into HPGL instructions that our pen plotter could use.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;const transcribe = function(str) {
+    let map = {
+        0: 'PR-300,0;',
+        1: 'PR0,300;',
+        2: 'PR300,0;',
+        3: 'PR0,-300;'
+    };
+    let currDir = 0;
+    let directions = ['PD;'];
+
+    for (let i = 0; i &amp;lt; str.length; i++){
+        if (str[i] === 'A' || str[i] === 'B') {
+            directions.push(map[currDir % 4])
+        } else if (str[i] === '+') {
+            currDir++
+        } else if (str[i] === '-') {
+            currDir--
+        }
+    }
+    directions.push('PU;')
+    return directions;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Finally, we wrote a CreateDrawing function that takes the directions from transcribe, adds an initializing step (‘SP1’ //Select Pen 1), and using a helper function getBounds (that gets the X,Y bounds of each iterative drawing) to place the iterative drawings on the paper.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;const createDrawing = function(n) {
+    let directions = ['SP1;'];
+    let start = 200;
+    let margin = 400;
+    for (let i = 0; i &amp;lt; n; i++) {
+        let commands = createIteration(i);
+        [minX, maxX, minY, maxY] = getBounds(commands);
+        let drawX = start - minX;
+        let drawY = -(((maxY - minY)/2) + minY) + (7650/2);
+        directions.push(`PA${drawX},${drawY};`);
+        directions.push(...transcribe(commands))
+        start += (maxX - minX) + margin;
+    }
+    directions.push(&quot;SP0;&quot;);
+    return directions;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;So, running createDrawing(7) will give you:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/writing/images/FinishedFractal.jpg&quot; alt=&quot;FinishedFractal&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A beautiful, beautiful, Dragon Curve!&lt;/p&gt;</content><author><name></name></author><summary type="html">On my first day at the Recurse Center I found a mysterious piece of old-school-looking hardware with a sign that read “Make Cool Plotter Art!”.</summary></entry><entry><title type="html">Initial Thoughts</title><link href="http://localhost:4000/writing/recurse/2019/05/29/initial-thoughts.html" rel="alternate" type="text/html" title="Initial Thoughts" /><published>2019-05-29T14:24:42-04:00</published><updated>2019-05-29T14:24:42-04:00</updated><id>http://localhost:4000/writing/recurse/2019/05/29/initial-thoughts</id><content type="html" xml:base="http://localhost:4000/writing/recurse/2019/05/29/initial-thoughts.html">&lt;p&gt;As I have been told, and as I have seen for myself: I should be blogging. Blogging is an important way for programmers to share their process, completed work, and the tricks &amp;amp; tips they pick up along the way. As someone who is newer to code, it feels intimidating to try to capture and package the things I’m learning along the way in any sort of cohesive fashion. However, that should not stop me from nudging myself into the world of blogging about code!&lt;/p&gt;
 
 &lt;p&gt;So,&lt;/p&gt;
 
